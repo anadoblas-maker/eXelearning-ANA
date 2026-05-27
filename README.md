@@ -77,3 +77,14 @@
 <p id="made-with-eXe"> <a href="https://exelearning.net/" target="_blank" rel="noopener"> <span>Creado con eXeLearning <span>(nueva ventana)</span></span></a></p>
 </body>
 </html>
+[text.html](https://github.com/user-attachments/files/28303393/text.html)[text.js](https://github.com/user-attachments/files/28303394/text.js)[rubric.js](https://github.com/user-attachments/files/28303401/rubric.js)
+[html2canvas.js](https://github.com/user-attachments/files/28303399/html2canvas.js)
+![exequextsq (1)](https://github.com/user-attachments/assets/32aedaf1-81b7-44e5-83d0-fcf3fd22d388)
+
+<img width="379" height="133" alt="821c0cf9-8ec0-1e58-fc39-f3faa323786e" src="https://github.com/user-attachments/assets/bc79f26a-5445-47b7-a1e6-ed33870c0157" />
+
+[62a75f13-4a8b-3519-0656-5ba25e83542b.pdf](https://github.com/user-attachments/files/28303425/62a75f13-4a8b-3519-0656-5ba25e83542b.pdf)
+<img width="954" height="380" alt="019badd6-028d-10d3-9d76-9d195a6f8d2f" src="https://github.com/user-attachments/assets/7daa75c8-0132-4541-a366-6beef2622cd6" />
+[7e9f8fd3-1c51-6a3e-ba88-82615108ecef.pdf](https://github.com/user-attachments/files/28303421/7e9f8fd3-1c51-6a3e-ba88-82615108ecef.pdf)
+[7b23a49a-3c03-f910-ad63-25b6ba3226ab.pdf](https://github.com/user-attachments/files/28303416/7b23a49a-3c03-f910-ad63-25b6ba3226ab.pdf)
+
